@@ -18,5 +18,3 @@
 # Contactos
 
 <p style="position:relative;top:15px"><a href=mailto:joelvipirat@gmail.com>joelvipirat@gmail.com</a></p>
-
-<img src="OIP.jfif" alt="logo" style="width:90px; height:70px;border-radius:50%;top:-45px;left:150px;position:relative"> 
